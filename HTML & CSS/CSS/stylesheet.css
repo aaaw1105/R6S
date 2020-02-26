@@ -1,0 +1,53 @@
+header {
+    color: honeydew;
+}
+
+header img{
+    width: 100%;
+}
+
+.top-massage {
+    width: 500px;
+    padding: 0 20px;
+    margin-left: 20px;
+    position: absolute;
+    top: 50px;
+    background-color: indianred;
+    opacity: 0.8;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 100px auto 0 auto;
+}
+
+.wrapper h2 {
+    border-bottom: rgba(128,128,128,0.5) solid 2px;
+}
+
+.index {
+    padding-bottom: 50px;
+    border-bottom: rgba(205,92,92,0.5) solid 2px;
+}
+
+.wrapper h3 {
+    margin-top: 50px;
+}
+
+.operater-wrapper h2 {
+    margin-top: 50px;
+}
+
+.operater h2 {
+    border-bottom: none;
+    background-color: rgba(128,128,128,0.5);
+    padding: 0 5px;
+}
+
+.operater-wrapper h3 {
+    margin-top: 30px;
+}
+
+.wrapper {
+    margin-bottom: 200px;
+}
